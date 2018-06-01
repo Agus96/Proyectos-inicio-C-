@@ -1,0 +1,33 @@
+C:\Users\Nicolás\Desktop\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.exe.config
+C:\Users\Nicolás\Desktop\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Desktop\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.exe
+C:\Users\Nicolás\Desktop\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.pdb
+C:\Users\Nicolás\Desktop\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.exe
+C:\Users\Nicolás\Desktop\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.pdb
+D:\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.exe.config
+D:\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.exe
+D:\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.pdb
+D:\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.exe
+D:\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.pdb
+D:\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.csprojResolveAssemblyReference.cache
+F:\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.exe.config
+F:\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.exe
+F:\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.pdb
+F:\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.exe
+F:\TP Para el lunes\New tateti\New tateti\bin\Debug\New tateti.pdb
+F:\TP Para el lunes\New tateti\New tateti\obj\Debug\New tateti.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Desktop\Nueva carpeta (3)\New tateti\New tateti\bin\Debug\New tateti.exe.config
+C:\Users\Nicolás\Desktop\Nueva carpeta (3)\New tateti\New tateti\obj\Debug\New tateti.exe
+C:\Users\Nicolás\Desktop\Nueva carpeta (3)\New tateti\New tateti\obj\Debug\New tateti.pdb
+C:\Users\Nicolás\Desktop\a\Nueva carpeta (3)\New tateti\New tateti\bin\Debug\New tateti.exe.config
+C:\Users\Nicolás\Desktop\a\Nueva carpeta (3)\New tateti\New tateti\obj\Debug\New tateti.exe
+C:\Users\Nicolás\Desktop\a\Nueva carpeta (3)\New tateti\New tateti\obj\Debug\New tateti.pdb
+C:\Users\Nicolás\Desktop\a\Nueva carpeta (3)\New tateti\New tateti\bin\Debug\New tateti.exe
+C:\Users\Nicolás\Desktop\a\Nueva carpeta (3)\New tateti\New tateti\bin\Debug\New tateti.pdb
+C:\Users\Nicolás\Desktop\a\Nueva carpeta (3)\New tateti\New tateti\obj\Debug\New tateti.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Desktop\New tateti\New tateti\bin\Debug\New tateti.exe.config
+C:\Users\Nicolás\Desktop\New tateti\New tateti\obj\Debug\New tateti.exe
+C:\Users\Nicolás\Desktop\New tateti\New tateti\obj\Debug\New tateti.pdb
+C:\Users\Nicolás\Desktop\NewTateti\New tateti\bin\Debug\New tateti.exe.config
+C:\Users\Nicolás\Desktop\NewTateti\New tateti\obj\Debug\New tateti.exe
+C:\Users\Nicolás\Desktop\NewTateti\New tateti\obj\Debug\New tateti.pdb
